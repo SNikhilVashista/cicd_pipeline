@@ -1,1 +1,1 @@
-# cicd_pipeline
+# cicd-pipeline-training
