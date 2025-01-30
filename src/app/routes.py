@@ -6,7 +6,7 @@ main = Blueprint('main', __name__)
 
 @main.route('/')
 def home():
-    return jsonify(message="Welcome to pipeline!")
+    return jsonify(message="Welcome to pipelines!")
 
 @main.route('/data')
 def data():
